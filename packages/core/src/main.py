@@ -18,3 +18,6 @@ async def swagger_ui_redirect(req: Request) -> HTMLResponse:
     return HTMLResponse()
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+async def swagger_ui_redirect1(req: Request) -> HTMLResponse:
+    return HTMLResponse()
