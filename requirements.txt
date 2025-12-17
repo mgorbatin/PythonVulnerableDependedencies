@@ -1,2 +1,0 @@
-pip
-requests==2.19.1
